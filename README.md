@@ -1,5 +1,3 @@
----
-
 ## 🧠 Autism Detection for Childhood
 
 `https://img.shields.io/badge/Python-3.9%2B-blue`  
